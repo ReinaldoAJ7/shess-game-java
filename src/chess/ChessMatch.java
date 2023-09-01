@@ -57,5 +57,6 @@ public class ChessMatch {
         board.placePiece(new Pawn(board,Colors.BLACK), new Position(6, 7));
 
 
+        //board.placePiece(new Pawn(board,Colors.BLACK), new Position(10, 7));
     }
 }
