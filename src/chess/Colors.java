@@ -1,4 +1,4 @@
-package enumns;
+package chess;
 
 public enum Colors {
     BLACK,
